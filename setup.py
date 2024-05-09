@@ -9,10 +9,10 @@ LONG_DESCRIPTION = (this_directory/'readme.md').read_text()
 
 # Setting up
 setup(
-    name="Mashup-102117021",
+    name="Mashup-102103034",
     version=VERSION,
-    author="intrinsicvardhan (Aaditya Vardhan)",
-    author_email="intrinsicvardhan@gmail.com",
+    author="iyasha",
+    author_email="iyashagoyal215@gmail.com",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description = LONG_DESCRIPTION,
